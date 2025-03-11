@@ -1,0 +1,9 @@
+<suite name="E_commerceproject">
+    <test name="testcases">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testcases.RegisterTest"/>
+            <class name="testcases.LoginSearchAndCartTest"/>
+        </classes>
+    </test>
+</suite>

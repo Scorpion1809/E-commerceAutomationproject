@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-11T14:14:18 IST" name="E_commerceproject" finished-at="2025-03-11T14:14:51 IST" duration-ms="32072">
+    <groups>
+    </groups>
+    <test started-at="2025-03-11T14:14:18 IST" name="testcases" finished-at="2025-03-11T14:14:51 IST" duration-ms="32072">
+      <class name="testcases.RegisterTest">
+        <test-method is-config="true" signature="setupExtentReports()[pri:0, instance:testcases.RegisterTest@639c2c1d]" started-at="2025-03-11T14:14:18 IST" name="setupExtentReports" finished-at="2025-03-11T14:14:18 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupExtentReports -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.RegisterTest@639c2c1d]" started-at="2025-03-11T14:14:18 IST" name="setUp" finished-at="2025-03-11T14:14:23 IST" duration-ms="4379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUserRegistration()[pri:0, instance:testcases.RegisterTest@639c2c1d]" started-at="2025-03-11T14:14:23 IST" name="testUserRegistration" finished-at="2025-03-11T14:14:33 IST" duration-ms="10613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.RegisterTest@639c2c1d]" started-at="2025-03-11T14:14:33 IST" name="tearDown" finished-at="2025-03-11T14:14:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="generateExtentReport()[pri:0, instance:testcases.RegisterTest@639c2c1d]" started-at="2025-03-11T14:14:51 IST" name="generateExtentReport" finished-at="2025-03-11T14:14:51 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateExtentReport -->
+      </class> <!-- testcases.RegisterTest -->
+      <class name="testcases.LoginSearchAndCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginSearchAndCartTest@6771beb3]" started-at="2025-03-11T14:14:33 IST" name="setUp" finished-at="2025-03-11T14:14:36 IST" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginAndCompletePurchase()[pri:0, instance:testcases.LoginSearchAndCartTest@6771beb3]" started-at="2025-03-11T14:14:36 IST" name="testLoginAndCompletePurchase" finished-at="2025-03-11T14:14:50 IST" duration-ms="13967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndCompletePurchase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginSearchAndCartTest@6771beb3]" started-at="2025-03-11T14:14:50 IST" name="tearDown" finished-at="2025-03-11T14:14:51 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginSearchAndCartTest -->
+    </test> <!-- testcases -->
+  </suite> <!-- E_commerceproject -->
+</testng-results>

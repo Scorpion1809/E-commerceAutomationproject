@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [E_commerceproject]">
+  <test thread-count="5" name="testcases(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testcases.LoginSearchAndCartTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testLoginAndCompletePurchase"/>
+        </methods>
+      </class> <!-- testcases.LoginSearchAndCartTest -->
+    </classes>
+  </test> <!-- testcases(failed) -->
+</suite> <!-- Failed suite [E_commerceproject] -->
